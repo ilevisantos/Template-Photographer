@@ -1,5 +1,10 @@
 # Photographer Portfolio Template
 A modern, responsive landing page template for photographers and filmmakers.
+
+## Preview
+![Preview](README-assets/Hero-Preview.png)
+![Preview](README-assets/About-Portfolio.png)
+
 ## Features
 - 📱 Mobile First
 - ⚡ Next.js 14 (app Router)
@@ -18,7 +23,9 @@ A modern, responsive landing page template for photographers and filmmakers.
 - shadcn/ui
 - Framer Motion
 - Lucide React
-## Preview
-(Add screenshots here)
+
+## 🌐 Live Demo
+https://template-photographer-five.vercel.app/
+
 ## License
 This project is intended as a portfolio/template.
