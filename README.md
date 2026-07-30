@@ -24,6 +24,19 @@ A modern, responsive landing page template for photographers and filmmakers.
 - Framer Motion
 - Lucide React
 
+## 🔧 Personalização
+
+Antes de usar este template, substitua:
+
+- Nome da empresa
+- Logo
+- Imagens
+- Número do WhatsApp
+- Instagram
+- E-mail
+- Depoimentos
+- Portfólio
+
 ## 🌐 Live Demo
 https://template-photographer-five.vercel.app/
 

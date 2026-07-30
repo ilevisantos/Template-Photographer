@@ -2,7 +2,7 @@
 // WhatsAppButton, Footer). Trocar o número de telefone aqui atualiza o site inteiro.
 
 // troque pelo número real, formato internacional sem espaços/símbolos.
-export const WHATSAPP_NUMBER = "5581999999999";
+export const WHATSAPP_NUMBER = "SEU NÚMERO_AQUI"; // Exemplo: "5511999999999" para Brasil
 
 export const WHATSAPP_DEFAULT_MESSAGE =
   "Olá! Vi o site do {Fotógrafo} e gostaria de solicitar um orçamento.";
